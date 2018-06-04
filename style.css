@@ -1,0 +1,27 @@
+#tittle {
+	background:  #27AE60;
+	font-size: 30px;
+	color: white;
+
+}
+.container {
+	background: #F0B27A;
+
+}
+
+.row {
+	
+	width: 100%;
+
+}
+.col-12 {
+	width: 100%;
+
+}
+
+.col-4 {
+	width: 33,3333333333%;
+	border-style: double;
+	border-color: #27AE60;
+
+}
